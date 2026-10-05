@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="br.com.qualidade.LoginTest" time="48.633" tests="7" errors="0" skipped="0" failures="0">
+  <testcase name="loginInvalidoBloqueadoPeloNavegador(String, String, String, String, String)[1]" classname="br.com.qualidade.LoginTest" time="15.123">
+    </testcase>
+  <testcase name="loginInvalidoBloqueadoPeloNavegador(String, String, String, String, String)[2]" classname="br.com.qualidade.LoginTest" time="4.567">
+    </testcase>
+  <testcase name="loginInvalidoBloqueadoPeloNavegador(String, String, String, String, String)[3]" classname="br.com.qualidade.LoginTest" time="4.635">
+    </testcase>
+  <testcase name="loginInvalidoBloqueadoPeloNavegador(String, String, String, String, String)[4]" classname="br.com.qualidade.LoginTest" time="10.916">
+    </testcase>
+  <testcase name="loginIncorretoExibeErro(String, String)[1]" classname="br.com.qualidade.LoginTest" time="4.245">
+    </testcase>
+  <testcase name="loginIncorretoExibeErro(String, String)[2]" classname="br.com.qualidade.LoginTest" time="4.043">
+    </testcase>
+  <testcase name="loginIncorretoExibeErro(String, String)[3]" classname="br.com.qualidade.LoginTest" time="5.066">
+    </testcase>
+</testsuite>

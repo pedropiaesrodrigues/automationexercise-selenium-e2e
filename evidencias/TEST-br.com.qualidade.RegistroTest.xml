@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="br.com.qualidade.RegistroTest" time="144.155" tests="8" errors="0" skipped="0" failures="0">
+  <testcase name="signupInvalidoBloqueado(String, String, String, String, String)[1]" classname="br.com.qualidade.RegistroTest" time="4.434">
+    </testcase>
+  <testcase name="signupInvalidoBloqueado(String, String, String, String, String)[2]" classname="br.com.qualidade.RegistroTest" time="2.931">
+    </testcase>
+  <testcase name="signupInvalidoBloqueado(String, String, String, String, String)[3]" classname="br.com.qualidade.RegistroTest" time="3.679">
+    </testcase>
+  <testcase name="R08_senhaVaziaImpedeCriacao" classname="br.com.qualidade.RegistroTest" time="4.762">
+    </testcase>
+  <testcase name="registrarEExcluirUsuario(String, String, String, String, String, String)[1]" classname="br.com.qualidade.RegistroTest" time="35.59">
+    </testcase>
+  <testcase name="registrarEExcluirUsuario(String, String, String, String, String, String)[2]" classname="br.com.qualidade.RegistroTest" time="9.356">
+    </testcase>
+  <testcase name="registrarEExcluirUsuario(String, String, String, String, String, String)[3]" classname="br.com.qualidade.RegistroTest" time="37.514">
+    </testcase>
+  <testcase name="registrarEExcluirUsuario(String, String, String, String, String, String)[4]" classname="br.com.qualidade.RegistroTest" time="45.879">
+    </testcase>
+</testsuite>
